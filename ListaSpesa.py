@@ -76,6 +76,5 @@ def main():
         else:
             print("Scelta non valida. Riprova.")
 
-if __name__ == "__main__":
-    main()
+
 
